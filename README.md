@@ -20,10 +20,8 @@ and diagonals equal to each other?
 1. You should use the given template. Do not include other header files. For the algorithm
 header file, you may only use the sort function if needed.
 <br>
-<br>
 2. Do not modify the code below the line in the template. Do not forget to declare the
 ownership in the beginning of MagicSquares.cpp.
-<br>
 <br>
 3. For simplicity, we suppose the user input integers are always positive integers. You
 don’t need to worry about other cases.
